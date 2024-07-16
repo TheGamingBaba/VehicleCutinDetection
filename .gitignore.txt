@@ -1,0 +1,7 @@
+# Ignore the dataset directory and its contents
+dataset/
+
+# Ignore specific file types
+*.jpg
+*.xml
+*.npy
